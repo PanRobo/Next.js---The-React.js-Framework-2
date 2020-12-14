@@ -1,5 +1,5 @@
 {
-  "name": "FortunateTallCodec",
+  "name": "NextApp",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,6 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "next": "^9.2.2",
+    "next-iron-session": "^4.1.10",
     "react": "^16.13.0",
     "react-dom": "^16.13.0"
   }
